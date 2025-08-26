@@ -14,7 +14,7 @@ FOLDERS=(
 )
 
 SRC="${HOME}/.config"
-DST="$(pwd)"
+DST="$(pwd)/config"
 
 for dir in "${FOLDERS[@]}"; do
   from="${SRC}/${dir}"
