@@ -1,3 +1,3 @@
 # doties
 Hyprland and other doties
-![rice](./image.png)
+![image](./image.png)
